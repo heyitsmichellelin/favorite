@@ -1,8 +1,20 @@
 .class {
     width: 1140px;
-    height: 100px;
-    background-color: #98C7D2;
-    border-color: #D2A398;
-    border-width: 1px;
+    height: 200px;
+    background-color: #81B1FA;
+    margin-top: 5px;
     margin-bottom: 5px;
+    border-radius: 12px;
+    padding: 15px 30px 15px 30px;
+    background-image: linear-gradient(0deg, #A0B5EB, #EDAEF9);
+    line-height: 1.15;
+}
+
+#title {
+    font-weight: 600;
+    font-size: larger;
+}
+
+#department {
+    font-style: italic;
 }
